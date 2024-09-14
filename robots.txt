@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://maniamet.github.io/sitemap.html.gz
+Sitemap: https://maniamet.github.io/app/sitemap.html.gz
+Sitemap: https://maniamet.github.io/assets/sitemap.html.gz
+Sitemap: https://maniamet.github.io/css/sitemap.html.gz
+Sitemap: https://maniamet.github.io/includes/sitemap.html.gz
+Sitemap: https://maniamet.github.io/item/sitemap.html.gz
+Sitemap: https://maniamet.github.io/src/sitemap.html.gz
